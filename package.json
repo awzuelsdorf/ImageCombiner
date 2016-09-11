@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/awzuelsdorf/image_combiner.git"
+    "url": "git+https://github.com/awzuelsdorf/ImageCombiner.git"
   },
   "keywords": [
     "image",
