@@ -1,0 +1,6 @@
+This module allows one to overlay images, similar to how Facebook allowed its
+users to drape a rainbow flag over their profile pictures after the United
+States of America's Supreme Court decision in Obergefell v. Hodges. An example
+of its use can be found in the "test" directory. This module's test command
+assumes that the user has mocha installed globally. If this is not the case,
+then please either install it globally before attempting to run the tests.

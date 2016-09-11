@@ -13,8 +13,11 @@
   "keywords": [
     "image",
     "overlay",
+	"drape",
     "layer",
-    "combine"
+    "combine",
+	"profile",
+	"picture"
   ],
   "author": "Andrew W. Zuelsdorf",
   "license": "MIT",
