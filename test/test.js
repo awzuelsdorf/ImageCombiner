@@ -17,7 +17,7 @@ describe('imageCombiner', function() {
 				//timeout of two seconds is not usually enough, and cannot
 				//generally make assumptions about how long I/O will take.
 				imageCombiner.imageCombiner(profilePicture, usflag,
-					"andrew zuelsdorf.jpeg", function (err, image) {
+					"andrew zuelsdorf.jpeg", 0.5, function (err, image) {
 						assert.equal(err, null);
 						assert.equal(fs.lstatSync("andrew zuelsdorf.jpeg").isFile(), true);
 						done();
